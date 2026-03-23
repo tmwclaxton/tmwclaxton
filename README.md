@@ -60,11 +60,20 @@ Self-taught **full-stack developer** and **co-founder** of multiple startups. He
 
 ### Featured projects
 
+<p align="center">
+  <a href="https://github.com/tmwclaxton/personal-arbitrage-node" title="personal-arbitrage-node on GitHub">
+    <img src="https://img.shields.io/badge/GitHub-personal--arbitrage--node-181717?style=for-the-badge&logo=github&logoColor=white" alt="personal-arbitrage-node" />
+  </a>
+</p>
+
 | Project | What it is |
 |--------|----------------|
+| [**personal-arbitrage-node**](https://github.com/tmwclaxton/personal-arbitrage-node) (**Money Printer**) | Laravel **DeFi & P2P** arbitrage kit — Robosats/Bisq-style flows, **Umbrel**, **Tor**, Kraken & Slack hooks. [Lightning Arbitrage Solutions](https://www.lightningarbitragesolutions.com). |
 | **VidGaze** | Watch content from YouTube, Dailymotion, Vimeo & Twitch in one place. |
 | **RapidResearch** | Automate scoping & literature reviews with **OpenAI** & **Grobid**. |
 | **DocBotGP** | On-prem postal routing for GP practices — **Mistral 7B**, OCR, smart routing. |
+
+<sub>If this repo is <strong>private</strong>, only you and collaborators see it on GitHub; the link still works for anyone you invite.</sub>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tmwclaxton/tmwclaxton/master/projects/wavelength.svg" alt="Wavelength" height="72" />
