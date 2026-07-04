@@ -21,7 +21,6 @@
 | [**AutoCVApply**](https://autocvapply.com) | Upload your CV once, apply everywhere — structured parsing, Chrome extension autofill for real ATS forms, AI drafting for free-text questions |
 | [**Clash of Dots**](https://github.com/tmwclaxton/clashofdots) | Open-source multiplayer RTS inspired by War of Dots — server-authoritative canvas battles, Map Builder, and community maps |
 | [**GrantGunner**](https://www.grantgunner.org) | AI grant discovery and application platform for EU & UK funding — opportunity scouting, Chrome/Firefox extension drafting on funder portals |
-| [**Personal Arbitrage Node**](https://github.com/tmwclaxton/personal-arbitrage-node) | Self-hosted Robosats trading kit — automated P2P/Lightning arbitrage with fiat payment matching and operator dashboard |
 
 **[AutoCVApply](https://autocvapply.com)** — upload your CV once, apply everywhere. Structured profile parsing, a Chrome extension that fills real ATS forms (Greenhouse, Ashby, Workday, and more), and AI drafting for the questions that slow you down. You review every field; nothing submits on your behalf.
 
