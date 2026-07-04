@@ -16,24 +16,115 @@
 
 ### Currently building
 
-| Project | What it does |
-| --- | --- |
-| [**AutoCVApply**](https://autocvapply.com) | Upload your CV once, apply everywhere — structured parsing, Chrome extension autofill for real ATS forms, AI drafting for free-text questions |
-| [**Clash of Dots**](https://github.com/tmwclaxton/clashofdots) | Open-source multiplayer RTS inspired by War of Dots — server-authoritative canvas battles, Map Builder, and community maps |
-| [**GrantGunner**](https://www.grantgunner.org) | AI grant discovery and application platform for EU & UK funding — opportunity scouting, Chrome/Firefox extension drafting on funder portals |
+<table>
+<tr><th>Project</th><th>What it does</th></tr>
+<tr>
+<td><a href="https://autocvapply.com"><strong>AutoCVApply</strong></a></td>
+<td>Upload your CV once, apply everywhere — structured parsing, Chrome extension autofill for real ATS forms, AI drafting for free-text questions</td>
+</tr>
+<tr><td colspan="2">
+<a href="https://autocvapply.com"><img src="https://img.shields.io/badge/autocvapply.com-C8102E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="autocvapply.com" /></a>
+<a href="https://github.com/tmwclaxton/autoapplycv"><img src="https://img.shields.io/badge/GitHub-source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/Laravel-13-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 13" />
+<img src="https://img.shields.io/badge/Vue-3-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+<img src="https://img.shields.io/badge/PHP-8.5-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8.5" />
+<img src="https://img.shields.io/badge/Chrome-MV3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome MV3" />
+</td></tr>
+<tr>
+<td><a href="https://github.com/tmwclaxton/clashofdots"><strong>Clash of Dots</strong></a></td>
+<td>Open-source multiplayer RTS inspired by War of Dots — server-authoritative canvas battles, Map Builder, and community maps</td>
+</tr>
+<tr><td colspan="2">
+<a href="https://github.com/tmwclaxton/clashofdots"><img src="https://img.shields.io/badge/GitHub-source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/Laravel-13-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 13" />
+<img src="https://img.shields.io/badge/Vue-3-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+<img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Canvas-2D-111?style=for-the-badge&logo=html5&logoColor=white" alt="Canvas 2D" />
+<img src="https://img.shields.io/badge/Multiplayer-server--authoritative-6366F1?style=for-the-badge" alt="Multiplayer" />
+</td></tr>
+<tr>
+<td><a href="https://www.grantgunner.org"><strong>GrantGunner</strong></a></td>
+<td>AI grant discovery and application platform for EU & UK funding — opportunity scouting, Chrome/Firefox extension drafting on funder portals</td>
+</tr>
+<tr><td colspan="2">
+<a href="https://www.grantgunner.org"><img src="https://img.shields.io/badge/grantgunner.org-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="grantgunner.org" /></a>
+<a href="https://github.com/tmwclaxton/GrantGunner"><img src="https://img.shields.io/badge/GitHub-source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 12" />
+<img src="https://img.shields.io/badge/Vue-3-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+<img src="https://img.shields.io/badge/AI-agents-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI agents" />
+<img src="https://img.shields.io/badge/Chrome-MV3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome MV3" />
+<img src="https://img.shields.io/badge/Firefox-extension-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Firefox extension" />
+</td></tr>
+</table>
 
 ---
 
 ### Selected work
 
-| Project | What it does |
-| --- | --- |
-| [**AutoCVApply**](https://github.com/tmwclaxton/autoapplycv) | AI CV parser and job application assistant with browser extension |
-| [**Personal Arbitrage Node**](https://github.com/tmwclaxton/personal-arbitrage-node) | Self-hosted Robosats trading kit for Lightning/P2P arbitrage |
-| [**Clash of Dots**](https://github.com/tmwclaxton/clashofdots) | Open-source RTS inspired by War of Dots |
-| [**Grobid-Sidecar-App**](https://github.com/tmwclaxton/Grobid-Sidecar-App) | Go sidecar that rate-limits requests to fragile GROBID containers |
-| [**baseProject**](https://github.com/tmwclaxton/baseProject) | Opinionated Laravel starter for shipping quickly |
-| [**openoutreachforall**](https://github.com/tmwclaxton/openoutreachforall) | Self-hosted open-source LinkedIn automation |
+<table>
+<tr><th>Project</th><th>What it does</th></tr>
+<tr>
+<td><a href="https://github.com/tmwclaxton/autoapplycv"><strong>AutoCVApply</strong></a></td>
+<td>AI CV parser and job application assistant with browser extension</td>
+</tr>
+<tr><td colspan="2">
+<a href="https://github.com/tmwclaxton/autoapplycv"><img src="https://img.shields.io/badge/GitHub-source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/Laravel-13-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 13" />
+<img src="https://img.shields.io/badge/Vue-3-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+<img src="https://img.shields.io/badge/PHP-8.5-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8.5" />
+<img src="https://img.shields.io/badge/Chrome-MV3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome MV3" />
+</td></tr>
+<tr>
+<td><a href="https://github.com/tmwclaxton/personal-arbitrage-node"><strong>Personal Arbitrage Node</strong></a></td>
+<td>Self-hosted Robosats trading kit for Lightning/P2P arbitrage</td>
+</tr>
+<tr><td colspan="2">
+<a href="https://github.com/tmwclaxton/personal-arbitrage-node"><img src="https://img.shields.io/badge/GitHub-source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/Laravel-11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 11" />
+<img src="https://img.shields.io/badge/Vue-3-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+<img src="https://img.shields.io/badge/Lightning-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Lightning" />
+<img src="https://img.shields.io/badge/Robosats-P2P-111?style=for-the-badge" alt="Robosats" />
+</td></tr>
+<tr>
+<td><a href="https://github.com/tmwclaxton/clashofdots"><strong>Clash of Dots</strong></a></td>
+<td>Open-source RTS inspired by War of Dots</td>
+</tr>
+<tr><td colspan="2">
+<a href="https://github.com/tmwclaxton/clashofdots"><img src="https://img.shields.io/badge/GitHub-source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/Laravel-13-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 13" />
+<img src="https://img.shields.io/badge/Vue-3-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+<img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Canvas-2D-111?style=for-the-badge&logo=html5&logoColor=white" alt="Canvas 2D" />
+</td></tr>
+<tr>
+<td><a href="https://github.com/tmwclaxton/Grobid-Sidecar-App"><strong>Grobid-Sidecar-App</strong></a></td>
+<td>Go sidecar that rate-limits requests to fragile GROBID containers</td>
+</tr>
+<tr><td colspan="2">
+<a href="https://github.com/tmwclaxton/Grobid-Sidecar-App"><img src="https://img.shields.io/badge/GitHub-source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/Go-1.22-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Docker-sidecar-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</td></tr>
+<tr>
+<td><a href="https://github.com/tmwclaxton/baseProject"><strong>baseProject</strong></a></td>
+<td>Opinionated Laravel starter for shipping quickly</td>
+</tr>
+<tr><td colspan="2">
+<a href="https://github.com/tmwclaxton/baseProject"><img src="https://img.shields.io/badge/GitHub-source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/Laravel-starter-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel starter" />
+<img src="https://img.shields.io/badge/Vue-3-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+</td></tr>
+<tr>
+<td><a href="https://github.com/tmwclaxton/openoutreachforall"><strong>openoutreachforall</strong></a></td>
+<td>Self-hosted open-source LinkedIn automation</td>
+</tr>
+<tr><td colspan="2">
+<a href="https://github.com/tmwclaxton/openoutreachforall"><img src="https://img.shields.io/badge/GitHub-source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Django-CRM-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/Playwright-automation-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+</td></tr>
+</table>
 
 ---
 
