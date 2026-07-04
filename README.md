@@ -22,20 +22,6 @@
 | [**Clash of Dots**](https://github.com/tmwclaxton/clashofdots) | Open-source multiplayer RTS inspired by War of Dots — server-authoritative canvas battles, Map Builder, and community maps |
 | [**GrantGunner**](https://www.grantgunner.org) | AI grant discovery and application platform for EU & UK funding — opportunity scouting, Chrome/Firefox extension drafting on funder portals |
 
-**[AutoCVApply](https://autocvapply.com)** — upload your CV once, apply everywhere. Structured profile parsing, a Chrome extension that fills real ATS forms (Greenhouse, Ashby, Workday, and more), and AI drafting for the questions that slow you down. You review every field; nothing submits on your behalf.
-
-<p>
-  <a href="https://autocvapply.com"><img src="https://img.shields.io/badge/Website-autocvapply.com-C8102E?style=for-the-badge" alt="AutoCVApply website" /></a>
-  <a href="https://github.com/tmwclaxton/autoapplycv"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="AutoCVApply on GitHub" /></a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Laravel-13-FF2D20?logo=laravel&logoColor=white" alt="Laravel 13" />
-  <img src="https://img.shields.io/badge/Vue-3-4FC08D?logo=vue.js&logoColor=white" alt="Vue 3" />
-  <img src="https://img.shields.io/badge/PHP-8.5-777BB4?logo=php&logoColor=white" alt="PHP 8.5" />
-  <img src="https://img.shields.io/badge/Chrome-MV3-4285F4?logo=googlechrome&logoColor=white" alt="Chrome MV3" />
-</p>
-
 ---
 
 ### Selected work
