@@ -8,12 +8,20 @@
 <p align="left">
   <a href="https://autocvapply.com"><img src="https://img.shields.io/badge/Building-AutoCVApply-C8102E?style=flat-square" alt="Building AutoCVApply" /></a>
   <a href="https://www.grantgunner.org"><img src="https://img.shields.io/badge/Founder-GrantGunner-238636?style=flat-square" alt="GrantGunner" /></a>
+  <a href="https://www.lightningarbitragesolutions.com"><img src="https://img.shields.io/badge/Co--founder-Lightning%20Arbitrage-F7931A?style=flat-square" alt="Lightning Arbitrage Solutions" /></a>
   <img src="https://img.shields.io/badge/Open%20to-collaboration-58A6FF?style=flat-square" alt="Open to collaboration" />
 </p>
 
 ---
 
 ### Currently building
+
+| Project | What it does |
+| --- | --- |
+| [**AutoCVApply**](https://autocvapply.com) | Upload your CV once, apply everywhere — structured parsing, Chrome extension autofill for real ATS forms, AI drafting for free-text questions |
+| [**Clash of Dots**](https://github.com/tmwclaxton/clashofdots) | Open-source multiplayer RTS inspired by War of Dots — server-authoritative canvas battles, Map Builder, and community maps |
+| [**GrantGunner**](https://www.grantgunner.org) | AI grant discovery and application platform for EU & UK funding — opportunity scouting, Chrome/Firefox extension drafting on funder portals |
+| [**Personal Arbitrage Node**](https://github.com/tmwclaxton/personal-arbitrage-node) | Self-hosted Robosats trading kit — automated P2P/Lightning arbitrage with fiat payment matching and operator dashboard |
 
 **[AutoCVApply](https://autocvapply.com)** — upload your CV once, apply everywhere. Structured profile parsing, a Chrome extension that fills real ATS forms (Greenhouse, Ashby, Workday, and more), and AI drafting for the questions that slow you down. You review every field; nothing submits on your behalf.
 
@@ -36,8 +44,9 @@
 | Project | What it does |
 | --- | --- |
 | [**AutoCVApply**](https://github.com/tmwclaxton/autoapplycv) | AI CV parser and job application assistant with browser extension |
-| [**Grobid-Sidecar-App**](https://github.com/tmwclaxton/Grobid-Sidecar-App) | Go sidecar that rate-limits requests to fragile GROBID containers |
+| [**Personal Arbitrage Node**](https://github.com/tmwclaxton/personal-arbitrage-node) | Self-hosted Robosats trading kit for Lightning/P2P arbitrage |
 | [**Clash of Dots**](https://github.com/tmwclaxton/clashofdots) | Open-source RTS inspired by War of Dots |
+| [**Grobid-Sidecar-App**](https://github.com/tmwclaxton/Grobid-Sidecar-App) | Go sidecar that rate-limits requests to fragile GROBID containers |
 | [**baseProject**](https://github.com/tmwclaxton/baseProject) | Opinionated Laravel starter for shipping quickly |
 | [**openoutreachforall**](https://github.com/tmwclaxton/openoutreachforall) | Self-hosted open-source LinkedIn automation |
 
@@ -75,5 +84,9 @@ Laravel · Vue · Inertia · PHP · Go · TypeScript · Docker · Terraform · P
   &nbsp;&nbsp;
   <a href="https://autocvapply.com" title="AutoCVApply">
     <img src="https://img.shields.io/badge/autocvapply.com-C8102E?style=flat-square&logo=googlechrome&logoColor=white" alt="autocvapply.com" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.lightningarbitragesolutions.com" title="Lightning Arbitrage Solutions">
+    <img src="https://img.shields.io/badge/lightningarbitragesolutions.com-F7931A?style=flat-square&logo=bitcoin&logoColor=white" alt="lightningarbitragesolutions.com" />
   </a>
 </p>
