@@ -140,10 +140,12 @@ Laravel · Vue · Inertia · PHP · Go · TypeScript · Docker · Terraform · P
 
 ### GitHub
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tmwclaxton&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmwclaxton&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
+<div align="center">
+
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tmwclaxton&theme=github_dark)
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tmwclaxton&theme=github_dark)
+
+</div>
 
 ---
 
