@@ -22,39 +22,14 @@
 <td><a href="https://autocvapply.com"><strong>AutoCVApply</strong></a></td>
 <td>Upload your CV once, apply everywhere — structured parsing, Chrome extension autofill for real ATS forms, AI drafting for free-text questions</td>
 </tr>
-<tr><td colspan="2">
-<a href="https://autocvapply.com"><img src="https://img.shields.io/badge/autocvapply.com-C8102E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="autocvapply.com" /></a>
-<a href="https://github.com/tmwclaxton/autoapplycv"><img src="https://img.shields.io/badge/GitHub-source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://img.shields.io/badge/Laravel-13-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 13" />
-<img src="https://img.shields.io/badge/Vue-3-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
-<img src="https://img.shields.io/badge/PHP-8.5-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8.5" />
-<img src="https://img.shields.io/badge/Chrome-MV3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome MV3" />
-</td></tr>
 <tr>
 <td><a href="https://github.com/tmwclaxton/clashofdots"><strong>Clash of Dots</strong></a></td>
 <td>Open-source multiplayer RTS inspired by War of Dots — server-authoritative canvas battles, Map Builder, and community maps</td>
 </tr>
-<tr><td colspan="2">
-<a href="https://github.com/tmwclaxton/clashofdots"><img src="https://img.shields.io/badge/GitHub-source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://img.shields.io/badge/Laravel-13-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 13" />
-<img src="https://img.shields.io/badge/Vue-3-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
-<img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Canvas-2D-111?style=for-the-badge&logo=html5&logoColor=white" alt="Canvas 2D" />
-<img src="https://img.shields.io/badge/Multiplayer-server--authoritative-6366F1?style=for-the-badge" alt="Multiplayer" />
-</td></tr>
 <tr>
 <td><a href="https://www.grantgunner.org"><strong>GrantGunner</strong></a></td>
 <td>AI grant discovery and application platform for EU & UK funding — opportunity scouting, Chrome/Firefox extension drafting on funder portals</td>
 </tr>
-<tr><td colspan="2">
-<a href="https://www.grantgunner.org"><img src="https://img.shields.io/badge/grantgunner.org-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="grantgunner.org" /></a>
-<a href="https://github.com/tmwclaxton/GrantGunner"><img src="https://img.shields.io/badge/GitHub-source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 12" />
-<img src="https://img.shields.io/badge/Vue-3-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
-<img src="https://img.shields.io/badge/AI-agents-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI agents" />
-<img src="https://img.shields.io/badge/Chrome-MV3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome MV3" />
-<img src="https://img.shields.io/badge/Firefox-extension-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Firefox extension" />
-</td></tr>
 </table>
 
 ---
