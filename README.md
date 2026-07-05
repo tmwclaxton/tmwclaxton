@@ -6,9 +6,8 @@
 </p>
 
 <p align="left">
-  <a href="https://autocvapply.com"><img src="https://img.shields.io/badge/Building-AutoCVApply-C8102E?style=flat-square" alt="Building AutoCVApply" /></a>
   <a href="https://www.grantgunner.org"><img src="https://img.shields.io/badge/Founder-GrantGunner-238636?style=flat-square" alt="GrantGunner" /></a>
-  <a href="https://www.lightningarbitragesolutions.com"><img src="https://img.shields.io/badge/Co--founder-Lightning%20Arbitrage-F7931A?style=flat-square" alt="Lightning Arbitrage Solutions" /></a>
+  <!-- <a href="https://autocvapply.com"><img src="https://img.shields.io/badge/Building-AutoCVApply-C8102E?style=flat-square" alt="Building AutoCVApply" /></a> -->
   <img src="https://img.shields.io/badge/Open%20to-collaboration-58A6FF?style=flat-square" alt="Open to collaboration" />
 </p>
 
