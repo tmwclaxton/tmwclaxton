@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Toby Claxton</h1>
 
 <p align="left">
-  <strong>Full-stack developer and founder</strong> — Ireland & Buckinghamshire.<br/>
+  <strong>Full-stack developer and founder</strong> - Ireland & Buckinghamshire.<br/>
   I build products end-to-end: Laravel and Vue apps, Go services, Chrome extensions, and the infrastructure underneath.
 </p>
 
@@ -19,15 +19,15 @@
 <tr><th>Project</th><th>What it does</th></tr>
 <tr>
 <td><a href="https://autocvapply.com"><strong>AutoCVApply</strong></a></td>
-<td>Upload your CV once, apply everywhere — structured parsing, Chrome extension autofill for real ATS forms, AI drafting for free-text questions</td>
+<td>Upload your CV once, apply everywhere - structured parsing, Chrome extension autofill for real ATS forms, AI drafting for free-text questions</td>
 </tr>
 <tr>
 <td><a href="https://github.com/tmwclaxton/clashofdots"><strong>Clash of Dots</strong></a></td>
-<td>Open-source multiplayer RTS inspired by War of Dots — server-authoritative canvas battles, Map Builder, and community maps</td>
+<td>Open-source multiplayer RTS inspired by War of Dots - server-authoritative canvas battles, Map Builder, and community maps</td>
 </tr>
 <tr>
 <td><a href="https://www.grantgunner.org"><strong>GrantGunner</strong></a></td>
-<td>AI grant discovery and application platform for EU & UK funding — opportunity scouting, Chrome/Firefox extension drafting on funder portals</td>
+<td>AI grant discovery and application platform for EU & UK funding - opportunity scouting, Chrome/Firefox extension drafting on funder portals</td>
 </tr>
 </table>
 
